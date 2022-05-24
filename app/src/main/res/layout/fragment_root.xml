@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frame_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RootFragment">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constrait_root"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#7FA3ED"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+
+        <ImageView
+            android:id="@+id/mirealogo"
+            android:layout_width="168dp"
+            android:layout_height="154dp"
+            android:layout_marginTop="24dp"
+            android:src="@drawable/_80px_mirea_logo"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/whats_week"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="5dp"
+            android:fontFamily="@font/aqum"
+            android:gravity="center"
+            android:text="Сейчас идёт I (нечётная) неделя"
+            android:textColor="@color/maintextcolor"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/mirealogo" />
+
+        <TextView
+            android:id="@+id/when_next_lesson"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:fontFamily="@font/tekturmedium"
+            android:textAlignment="center"
+            android:textColor="#172550"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toTopOf="@+id/button_about_application"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/whats_week" />
+
+        <Button
+            android:id="@+id/button_about_application"
+            android:layout_width="0dp"
+            android:layout_height="64dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/custom_button"
+            android:backgroundTint="#D3C861"
+            android:fontFamily="@font/aqum"
+            android:text="О приложении"
+            android:textColor="#0B1637"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/button_vict"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:id="@+id/button_list"
+            android:layout_width="0dp"
+            android:layout_height="64dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/custom_button"
+            android:backgroundTint="@color/mytext"
+            android:fontFamily="@font/aqum"
+            android:text="Твоя шпаргалка"
+            android:textColor="@color/myback"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/button_communication"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.512"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:id="@+id/button_musthave"
+            android:layout_width="0dp"
+            android:layout_height="64dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/custom_button"
+            android:backgroundTint="@color/mytext"
+            android:fontFamily="@font/aqum"
+            android:text="Must have"
+            android:textColor="@color/myback"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:id="@+id/button_communication"
+            android:layout_width="0dp"
+            android:layout_height="64dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/custom_button"
+            android:backgroundTint="@color/mytext"
+            android:fontFamily="@font/aqum"
+            android:text="Связь"
+            android:textColor="@color/myback"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/button_musthave"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:id="@+id/button_vict"
+            android:layout_width="0dp"
+            android:layout_height="64dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/custom_button"
+            android:backgroundTint="@color/mytext"
+            android:fontFamily="@font/aqum"
+            android:text="Расписание"
+            android:textColor="@color/myback"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/button_list"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

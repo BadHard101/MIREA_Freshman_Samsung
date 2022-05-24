@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3475" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3475" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/layout/fragment_about_application.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/layout/fragment_about_application1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/layout/fragment_contact.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/layout/fragment_must_have.xml" value="0.33" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/layout/fragment_profile.xml" value="0.3287037037037037" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/layout/fragment_root.xml" value="0.33" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/layout/fragment_settings.xml" value="0.3287037037037037" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/layout/fragment_test.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/layout/fragment_vict.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/layout/list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3475" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Example/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3475" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev10/app/src/main/res/layout/activity_pdf2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev11/app/src/main/res/layout/fragment_contact2.xml" value="0.33" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev12/app/src/main/res/layout/fragment_contact2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev13/app/src/main/res/layout/fragment_about_application.xml" value="0.5" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev13/app/src/main/res/layout/fragment_contact.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev13/app/src/main/res/layout/fragment_contact2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev13/app/src/main/res/layout/fragment_list.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev13/app/src/main/res/layout/fragment_must_have.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev13/app/src/main/res/layout/fragment_root.xml" value="0.33" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev13/app/src/main/res/layout/fragment_vict.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev14/app/src/main/res/layout/fragment_about_application.xml" value="0.5" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev14/app/src/main/res/layout/fragment_contact.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev14/app/src/main/res/layout/fragment_must_have.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev14/app/src/main/res/layout/fragment_root.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev15/app/src/main/res/layout/fragment_contact.xml" value="0.33" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev15/app/src/main/res/layout/fragment_contact2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev15/app/src/main/res/layout/fragment_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev15/app/src/main/res/layout/fragment_must_have.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev15/app/src/main/res/layout/fragment_root.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev15/app/src/main/res/layout/fragment_vict.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev16/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev16/app/src/main/res/layout/activity_pdf2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev16/app/src/main/res/layout/fragment_about_application.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev16/app/src/main/res/layout/fragment_contact.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev16/app/src/main/res/layout/fragment_contact2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev16/app/src/main/res/layout/fragment_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev16/app/src/main/res/layout/fragment_must_have.xml" value="0.33" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev16/app/src/main/res/layout/fragment_root.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev16/app/src/main/res/layout/fragment_vict.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev17/app/src/main/res/layout/fragment_must_have.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev18/app/src/main/res/drawable/custom_button.xml" value="0.36" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev18/app/src/main/res/drawable/custom_checkbox.xml" value="0.36" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev18/app/src/main/res/layout/fragment_must_have.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev18/app/src/main/res/layout/fragment_root.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev19/app/src/main/res/layout/fragment_about_application.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev19/app/src/main/res/layout/fragment_contact.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev19/app/src/main/res/layout/fragment_contact2.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev19/app/src/main/res/layout/fragment_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev19/app/src/main/res/layout/fragment_must_have.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev19/app/src/main/res/layout/fragment_root.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev19/app/src/main/res/layout/fragment_vict.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev20/app/src/main/res/layout/fragment_about_application.xml" value="0.4888888888888889" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev20/app/src/main/res/layout/fragment_root.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev21/app/src/main/res/layout/fragment_about_application.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev21/app/src/main/res/layout/fragment_contact.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev21/app/src/main/res/layout/fragment_contact2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev21/app/src/main/res/layout/fragment_must_have.xml" value="0.44221105527638194" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev21/app/src/main/res/layout/fragment_root.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev21/app/src/main/res/layout/fragment_vict.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev22Shed/app/src/main/res/layout/fragment_contact.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev22Shed/app/src/main/res/layout/fragment_contact2.xml" value="0.33" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev22Shed/app/src/main/res/layout/fragment_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev22Shed/app/src/main/res/layout/fragment_must_have.xml" value="0.33" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev22Shed/app/src/main/res/layout/fragment_root.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev22Shed/app/src/main/res/layout/fragment_vict.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev23cont2/app/src/main/res/layout/activity_pdf2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev23cont2/app/src/main/res/layout/fragment_about_application.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev23cont2/app/src/main/res/layout/fragment_contact.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev23cont2/app/src/main/res/layout/fragment_contact2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev23cont2/app/src/main/res/layout/fragment_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev23cont2/app/src/main/res/layout/fragment_must_have.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev23cont2/app/src/main/res/layout/fragment_root.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev23cont2/app/src/main/res/layout/fragment_vict.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev24.5notTT/app/src/main/res/layout/fragment_contact.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev24.5notTT/app/src/main/res/layout/fragment_contact2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev24.5notTT/app/src/main/res/layout/fragment_must_have.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev24.5notTT/app/src/main/res/layout/fragment_root.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev24.5notTT/app/src/main/res/layout/fragment_vict.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev5/app/src/main/res/drawable/custom_button.xml" value="0.267" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev5/app/src/main/res/layout/fragment_about_application.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev5/app/src/main/res/layout/fragment_contact.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev5/app/src/main/res/layout/fragment_contact2.xml" value="0.33" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev5/app/src/main/res/layout/fragment_must_have.xml" value="0.33" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev5/app/src/main/res/layout/fragment_root.xml" value="0.25" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev5/app/src/main/res/layout/fragment_vict.xml" value="0.2791666666666667" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev6/app/src/main/res/layout/fragment_contact.xml" value="0.33" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev6/app/src/main/res/layout/fragment_contact2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev6/app/src/main/res/layout/fragment_root.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev7/app/src/main/res/layout/activity_main.xml" value="0.2515625" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev7/app/src/main/res/layout/fragment_contact2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev7/app/src/main/res/layout/fragment_list.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev7/app/src/main/res/layout/fragment_must_have.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev7/app/src/main/res/layout/fragment_root.xml" value="0.25" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev7/app/src/main/res/layout/fragment_vict.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev8/app/src/main/res/layout/fragment_root.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev9/app/src/main/res/layout/fragment_contact2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BadHard/StudioProjects/Navigation_Examplev9/app/src/main/res/layout/fragment_root.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Pavel/AndroidStudioProjects/Application43/app/src/main/res/layout/fragment_profile.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/MIREA_Freshman_SumsungProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1025" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/MIREA_Freshman_SumsungProject/app/src/main/res/drawable/custom_button.xml" value="0.1025" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/MIREA_Freshman_SumsungProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1025" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/MIREA_Freshman_SumsungProject/app/src/main/res/layout/activity_main.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/MIREA_Freshman_SumsungProject/app/src/main/res/layout/activity_pdf2.xml" value="0.176" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/MIREA_Freshman_SumsungProject/app/src/main/res/layout/fragment_about_application.xml" value="0.2578125" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/MIREA_Freshman_SumsungProject/app/src/main/res/layout/fragment_contact.xml" value="0.2578125" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/MIREA_Freshman_SumsungProject/app/src/main/res/layout/fragment_contact2.xml" value="0.2578125" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/MIREA_Freshman_SumsungProject/app/src/main/res/layout/fragment_list.xml" value="0.2578125" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/MIREA_Freshman_SumsungProject/app/src/main/res/layout/fragment_must_have.xml" value="0.2" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/MIREA_Freshman_SumsungProject/app/src/main/res/layout/fragment_root.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/MIREA_Freshman_SumsungProject/app/src/main/res/layout/fragment_vict.xml" value="0.2578125" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/Navigation_Example/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/Navigation_Example/app/src/main/res/layout/fragment_about_application.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/Navigation_Example/app/src/main/res/layout/fragment_contact.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/Navigation_Example/app/src/main/res/layout/fragment_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/Navigation_Example/app/src/main/res/layout/fragment_must_have.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/Navigation_Example/app/src/main/res/layout/fragment_must_have1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/Navigation_Example/app/src/main/res/layout/fragment_root.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/Navigation_Example/app/src/main/res/layout/fragment_vict.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/badha/AndroidStudioProjects/Navigation_Examplev25beta/app/src/main/res/layout/fragment_root.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/varia/AndroidStudioProjects/Application/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/varia/AndroidStudioProjects/Application/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/varia/AndroidStudioProjects/Application/app/src/main/res/layout/fragment_root.xml" value="0.176" />
+        <entry key="..\:/Users/varia/AndroidStudioProjects/Application/app/src/main/res/layout/fragment_settings.xml" value="0.25052083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
