@@ -130,92 +130,92 @@ public class RootFragment extends Fragment {
                                     else if (hourss<10) {
                                         int m = 89-minss;
                                         when_n_l.setText("Пара началась!\nПерерыв через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#531C13"));
+                                        when_n_l.setTextColor(Color.parseColor("#9C2A2A"));
                                     }
                                     else if (hourss==10 && minss<30) {
                                         int m = 29-minss;
                                         when_n_l.setText("Пара началась!\nПерерыв через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#531C13"));
+                                        when_n_l.setTextColor(Color.parseColor("#9C2A2A"));
                                     }
                                     else if (hourss==10 && minss<40) {
                                         int m = 39-minss;
                                         when_n_l.setText("Перерыв.\nПара через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#1A5A28"));
+                                        when_n_l.setTextColor(Color.parseColor("#388E3C"));
                                     }
                                     else if (hourss<12) {
                                         int m = (12-hourss) * 60 + 9 - minss;
                                         when_n_l.setText("Пара началась!\nПерерыв через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#531C13"));
+                                        when_n_l.setTextColor(Color.parseColor("#9C2A2A"));
                                     }
                                     else if (hourss==12 && minss<10) {
                                         int m = 9 - minss;
                                         when_n_l.setText("Пара началась!\nПерерыв через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#531C13"));
+                                        when_n_l.setTextColor(Color.parseColor("#9C2A2A"));
                                     }
                                     else if (hourss==12 && minss<40) {
                                         int m = 39 - minss;
                                         when_n_l.setText("Перерыв.\nПара через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#1A5A28"));
+                                        when_n_l.setTextColor(Color.parseColor("#388E3C"));
                                     }
                                     else if (hourss<14) {
                                         int m = (14-hourss) * 60 + 9 - minss;
                                         when_n_l.setText("Пара началась!\nПерерыв через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#531C13"));
+                                        when_n_l.setTextColor(Color.parseColor("#9C2A2A"));
                                     }
                                     else if (hourss==14 && minss<10) {
                                         int m = 9 - minss;
                                         when_n_l.setText("Пара началась!\nПерерыв через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#531C13"));
+                                        when_n_l.setTextColor(Color.parseColor("#9C2A2A"));
                                     }
                                     else if (hourss==14 && minss<20) {
                                         int m = 19 - minss;
                                         when_n_l.setText("Перерыв.\nПара через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#1A5A28"));
+                                        when_n_l.setTextColor(Color.parseColor("#388E3C"));
                                     }
                                     else if (hourss<15) {
                                         int m = (15-hourss) * 60 + 49 - minss;
                                         when_n_l.setText("Пара началась!\nПерерыв через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#531C13"));
+                                        when_n_l.setTextColor(Color.parseColor("#9C2A2A"));
                                     }
                                     else if (hourss==15 && minss<50) {
                                         int m = 49 - minss;
                                         when_n_l.setText("Пара началась!\nПерерыв через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#531C13"));
+                                        when_n_l.setTextColor(Color.parseColor("#9C2A2A"));
                                     }
                                     else if (hourss<16) {
                                         int m = 79 - minss;
                                         when_n_l.setText("Перерыв.\nПара через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#1A5A28"));
+                                        when_n_l.setTextColor(Color.parseColor("#388E3C"));
                                     }
                                     else if (hourss==16 && minss<20) {
                                         int m = 19 - minss;
                                         when_n_l.setText("Перерыв.\nПара через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#1A5A28"));
+                                        when_n_l.setTextColor(Color.parseColor("#388E3C"));
                                     }
                                     else if (hourss<17) {
                                         int m = (17-hourss) * 60 + 49 - minss;
                                         when_n_l.setText("Пара началась!\nПерерыв через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#531C13"));
+                                        when_n_l.setTextColor(Color.parseColor("#9C2A2A"));
                                     }
                                     else if (hourss==17 && minss<50) {
                                         int m = 49 - minss;
                                         when_n_l.setText("Пара началась!\nПерерыв через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#531C13"));
+                                        when_n_l.setTextColor(Color.parseColor("#9C2A2A"));
                                     }
                                     else if (hourss<18) {
                                         int m = 59 - minss;
                                         when_n_l.setText("Перерыв.\nПара через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#1A5A28"));
+                                        when_n_l.setTextColor(Color.parseColor("#388E3C"));
                                     }
                                     else if (hourss<19) {
                                         int m = 89 - minss;
                                         when_n_l.setText("Пара началась!\nПерерыв через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#531C13"));
+                                        when_n_l.setTextColor(Color.parseColor("#9C2A2A"));
                                     }
                                     else if (hourss==19 && minss<30) {
                                         int m = 29 - minss;
                                         when_n_l.setText("Пара началась!\nПерерыв через " + m + " minutes");
-                                        when_n_l.setTextColor(Color.parseColor("#531C13"));
+                                        when_n_l.setTextColor(Color.parseColor("#9C2A2A"));
                                     }
                                     else if (hourss<24) {
                                         when_n_l.setText("Пары закончились!\nХорошего отдыха...");
