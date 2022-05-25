@@ -120,7 +120,7 @@ public class RootFragment extends Fragment {
                             @Override
                             public void run() {
                                 //splitDate2[0]="10";
-                                //splitDate2[1]="34";
+                                //splitDate2[1]="50";
 
                                 if (currentDay == "Sunday") {
                                     when_n_l.setText("Сегодня пар нет.\nОтдыхайте :)");
