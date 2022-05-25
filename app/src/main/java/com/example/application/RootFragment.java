@@ -1,11 +1,14 @@
 package com.example.application;
 
+import android.app.Notification;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.core.app.NotificationCompat;
+import androidx.core.app.NotificationManagerCompat;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
@@ -26,10 +29,12 @@ import java.util.Date;
 
 public class RootFragment extends Fragment {
     private FragmentRootBinding fragmentRootBinding;
+    private NotificationManagerCompat notificationManagerCompat;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        this.notificationManagerCompat = NotificationManagerCompat.from(getContext());
     }
 
     @Override
@@ -72,8 +77,24 @@ public class RootFragment extends Fragment {
             }
         });
 
-         return fragmentRootBinding.getRoot();
+        return fragmentRootBinding.getRoot();
 
+    }
+
+    private void sendOnChannel1()  {
+        String title = "MIREA Freshman";
+        String message = "5 minutes before class starts!";
+
+        Notification notification = new NotificationCompat.Builder(getContext(), NotificationApp.CHANNEL_1_ID)
+                .setSmallIcon(R.drawable.paw1)
+                .setContentTitle(title)
+                .setContentText(message)
+                .setPriority(NotificationCompat.PRIORITY_HIGH)
+                .setCategory(NotificationCompat.CATEGORY_MESSAGE)
+                .build();
+
+        int notificationId = 1;
+        this.notificationManagerCompat.notify(notificationId, notification);
     }
 
     @Override
@@ -115,12 +136,14 @@ public class RootFragment extends Fragment {
                             void endPar(int m) {
                                 when_n_l.setText("Перерыв.\nПара через " + m + " minutes");
                                 when_n_l.setTextColor(Color.parseColor("#388E3C"));
+                                if (m == 5) sendOnChannel1();
                             }
 
                             @Override
                             public void run() {
                                 //splitDate2[0]="10";
-                                //splitDate2[1]="50";
+                                //splitDate2[1]="34";
+
 
                                 if (currentDay == "Sunday") {
                                     when_n_l.setText("Сегодня пар нет.\nОтдыхайте :)");
@@ -181,7 +204,7 @@ public class RootFragment extends Fragment {
                                 }
                             }
                         });
-                        Thread.sleep(1000);
+                        Thread.sleep(60000);
                     }
                 }
                 catch (InterruptedException e) {
