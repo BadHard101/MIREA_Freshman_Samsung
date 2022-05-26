@@ -83,7 +83,7 @@ public class RootFragment extends Fragment {
 
     private void sendOnChannel1()  {
         String title = "MIREA Freshman";
-        String message = "5 minutes before class starts!";
+        String message = "5 минут до начала пары!";
 
         Notification notification = new NotificationCompat.Builder(getContext(), NotificationApp.CHANNEL_1_ID)
                 .setSmallIcon(R.drawable.paw1)
@@ -141,8 +141,8 @@ public class RootFragment extends Fragment {
 
                             @Override
                             public void run() {
-                                //splitDate2[0]="10";
-                                //splitDate2[1]="34";
+                                //splitDate2[0]="7";
+                                //splitDate2[1]="3";
 
 
                                 if (currentDay == "Sunday") {
@@ -153,7 +153,7 @@ public class RootFragment extends Fragment {
                                     int hourss = Integer.parseInt(splitDate2[0]);
                                     int minss = Integer.parseInt(splitDate2[1]);
                                     if (hourss<8) {
-                                        when_n_l.setText("ZzZ Отдыхайте ;)");
+                                        when_n_l.setText("ZzZ\nОтдыхайте ;)");
                                         when_n_l.setTextColor(Color.parseColor("#1F2655"));
                                     }
                                     else if (hourss<9) {

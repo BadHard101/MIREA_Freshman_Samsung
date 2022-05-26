@@ -11,9 +11,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Application">
         <activity
+            android:screenOrientation="portrait"
             android:name=".PdfActivity"
             android:exported="false" />
         <activity
+            android:screenOrientation="portrait"
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
