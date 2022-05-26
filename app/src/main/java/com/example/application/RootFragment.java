@@ -141,8 +141,8 @@ public class RootFragment extends Fragment {
 
                             @Override
                             public void run() {
-                                //splitDate2[0]="7";
-                                //splitDate2[1]="3";
+                                //splitDate2[0]="20";
+                                //splitDate2[1]="11";
 
 
                                 if (currentDay == "Sunday") {
